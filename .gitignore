@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dataset CWRU
+*.npz
+*.zip
+*.xlsx
+
+# Modele entraine
+*.pkl
+
+# Fichiers temporaires
+~$*
+Untitled-*.py
+
+# Environnement VS Code
+.vscode/
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
