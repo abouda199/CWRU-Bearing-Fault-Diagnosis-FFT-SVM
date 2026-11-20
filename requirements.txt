@@ -1,0 +1,10 @@
+# Tested with Python 3.11.3. Keep sklearn aligned with the trusted saved artifact.
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.7.2
+joblib==1.4.2
+streamlit==1.52.1
+plotly==6.5.0
+# Used by the original research scripts:
+matplotlib>=3.8,<4

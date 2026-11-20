@@ -23,3 +23,11 @@ Untitled-*.py
 # Fichiers systeme
 .DS_Store
 Thumbs.db
+
+# Local Streamlit credentials and test caches
+.streamlit/secrets.toml
+.pytest_cache/
+.coverage
+
+raw/
+.streamlit/secrets.toml
